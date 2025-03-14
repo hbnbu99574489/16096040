@@ -1,3 +1,4 @@
+} catch (IOException e) {
 out.write(”aString”);
 rs.close();
 while (rs.next())
