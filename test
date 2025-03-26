@@ -1,3 +1,4 @@
+props.load(fs);
 ResultSet rs = ps.executeQuery();
 public class OracleJdbcTest
 rs.close();
